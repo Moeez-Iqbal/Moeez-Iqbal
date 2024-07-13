@@ -1,5 +1,4 @@
-Hi there 👋
- <h3 align="center">👋 Aspiring Software Engineering Student & MERN Stack Developer</h3>
+<h3 align="center">👋 Aspiring Software Engineering Student & MERN Stack Developer</h3>
  
 
 
